@@ -23,7 +23,7 @@
 
 # :heavy_check_mark: INSTALLATION LINUX/MAC:
 ```bash
-git clone https://github.com/Lucksi/Mr.Holmes
+git clone https://github.com/thehananasif/Mr.Homes-by-Hanan-Asif
 cd Mr.Holmes
 sudo apt-get update
 sudo chmod +x install.sh
@@ -34,7 +34,7 @@ sudo bash install.sh
 # :heavy_check_mark: INSTALLATION LINUX/MAC (Venv Enviroment):
 **if you encounter some errors in the python libraries installation use this method**
 ```bash
-git clone https://github.com/Lucksi/Mr.Holmes
+git clone https://github.com/thehananasif/Mr.Homes-by-Hanan-Asif
 sudo apt-get update
 cd Mr.Holmes
 python3 -m venv .lib_venv
@@ -49,7 +49,7 @@ python3 MrHolmes.py
 # :heavy_check_mark: INSTALLATION WINDOWS (1°WAY)
 **If you have git installed on your windows machine you can do the following commands:**
 ```cmd
-git clone https://github.com/Lucksi/Mr.Holmes
+git clone https://github.com/thehananasif/Mr.Homes-by-Hanan-Asif
 cd Mr.Holmes
 Install.cmd
 ```
@@ -67,7 +67,7 @@ Install.cmd
 # :heavy_check_mark: INSTALLATION TERMUX:
 ```bash
 pkg install proot
-git clone https://github.com/Lucksi/Mr.Holmes
+git clone https://github.com/thehananasif/Mr.Homes-by-Hanan-Asif
 cd Mr.Holmes
 proot -0 chmod +x install_Termux.sh
 ./install_Termux.sh
@@ -118,12 +118,6 @@ proot -0 chmod +x install_Termux.sh
 
 # :heavy_exclamation_mark: ATTENTION ON WINDOWS
 **IF PYTHON AND PHP WONT INSTALL YOU HAVE TO DOWNLOAD THEM MANUALLY:**
-    
-<br>
-
-# VERSIONS LIST:
-    https://lucksi.github.io/Mr.Holmes/Pages/versions.html
-<br>
 
 # :heavy_check_mark: GUI DARK/LIGHT MODE:
 ```bash
