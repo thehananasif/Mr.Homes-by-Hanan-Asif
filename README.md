@@ -17,7 +17,9 @@
 
 <br>
 
+<p align="center">
 ![Termux](https://github.com/user-attachments/assets/4a6e611d-e17c-49fb-85a2-2d0c52451680)
+</p>
 
 <br>
 
