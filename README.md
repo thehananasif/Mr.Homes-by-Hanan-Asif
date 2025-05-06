@@ -18,8 +18,7 @@
 <br>
 
 <p align = "center">
-<img src = "![Termux](https://github.com/user-attachments/assets/46e5310a-b9b5-4a0b-9242-2b63c4e4a58a)" height = "400px" width = "300px">
-</p>
+<img src = "![Termux](https://github.com/user-attachments/assets/46e5310a-b9b5-4a0b-9242-2b63c4e4a58a)"</p>
 
 <br>
 
