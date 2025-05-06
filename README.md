@@ -17,9 +17,7 @@
 
 <br>
 
-<p align = "center">
-<img src = "![Termux](https://github.com/user-attachments/assets/999ccff7-afcb-4963-85bc-44be9f70f4af)"
-</p>
+![Termux](https://github.com/user-attachments/assets/4a6e611d-e17c-49fb-85a2-2d0c52451680)
 
 <br>
 
