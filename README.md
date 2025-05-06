@@ -18,8 +18,8 @@
 <br>
 
 <p align = "center">
-<img src = "![Termux](https://github.com/user-attachments/assets/b64e5ed0-b191-4c71-827c-d444af23743f)
-"</p>
+<img src = "![Termux](https://github.com/user-attachments/assets/999ccff7-afcb-4963-85bc-44be9f70f4af)"
+</p>
 
 <br>
 
